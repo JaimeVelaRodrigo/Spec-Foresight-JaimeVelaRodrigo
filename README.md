@@ -1,0 +1,1 @@
+# Spec-Futurol-gico---Foresight-Spirit-and-Purpose
