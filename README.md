@@ -2,7 +2,7 @@
 
 ## 1. ✨ Personal Approach
 
-My practice of foresight is grounded in a form of discernment that seeks not to dominate the future, but to inhabit it through **aesthetic desire**, **embodied ethics**, and **symbolic thought**—my mother tongue, which I seek to expand into other languages.
+My practice of foresight is grounded in a form of discernment that seeks not to dominate the future, but to inhabit it through **aesthetic desire**, **embodied ethics**, and **symbolic thought**—from my mother tongue, and expand into other languages.
 
 The purpose is not to anticipate and thus capture scenarios of the future, but to **read and understand signs and patterns** I perceive, investigate, and study—what theology calls the “signs of the times”—in order to illuminate the intersections between becoming and the collective.
 
