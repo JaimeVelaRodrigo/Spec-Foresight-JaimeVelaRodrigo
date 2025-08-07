@@ -2,13 +2,17 @@
 
 ## 1. ✨ Personal Approach
 
-My practice of foresight is grounded in a form of discernment that seeks not to dominate the future, but to inhabit it through **aesthetic desire**, **embodied ethics**, and **symbolic thought**—from my mother tongue, and expand into other languages.
+My practice of foresight is grounded in a form of discernment that seeks not to dominate the future, but to inhabit it ̶ through aesthetic desire, embodied ethics, and symbolic thought, which I consider my native language of meaning.
 
-The purpose is not to anticipate and thus capture scenarios of the future, but to **read and understand signs and patterns** I perceive, investigate, and study—what theology calls the “signs of the times”—in order to illuminate the intersections between becoming and the collective.
+This foresight is born from a specific context ̶ my homeland of Chile, with its layered history, its contradictions,its beauty and wounds. It is shaped by the cultural, spiritual, and linguistic sensibilities I have inherited.
 
-> The future is not predicted: **it is redeemed**. Whether we say we descend from God, from Mother Earth, or from universal elements—this promise, understood by our ancestors, is a condition we are called to embody.
+And yet, it does not stop there.
 
-This is not a technical nor esoteric futurism; it is a **discernment in creation**, where each life inhabiting this world seeks presence and plenitude.
+I open myself to other languages, other systems of meaning ̶ even those beyond my initial spectrum of understanding. If in that other ̶ in their philosophy, their tradition, their science or song ̶ I recognize expressions of love, faith, or hope, I do not resist them. I welcome them. I let them stretch and transform my foresight, so that it may become more whole, more just, and more universal.
+
+This is not about appropriation, but about resonance. Not about knowing everything, but about expanding my discernment ̶ as a living, porous practice that listens, learns, and includes.
+
+Ultimately, my purpose is to contribute and create value ̶ not only in economic terms, but in a broader sense of virtuous flourishing. I aim to open space for human potential to be activated, expressed, and shared across all dimensions of life
 
 ---
 
