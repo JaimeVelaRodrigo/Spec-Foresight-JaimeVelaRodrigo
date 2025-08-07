@@ -10,9 +10,11 @@ And yet, it does not stop there.
 
 I open myself to other languages, other systems of meaning ̶ even those beyond my initial spectrum of understanding. If in that other ̶ in their philosophy, their tradition, their science or song ̶ I recognize expressions of love, faith, or hope, I do not resist them. I welcome them. I let them stretch and transform my foresight, so that it may become more whole, more just, and more universal.
 
-This is not about appropriation, but about resonance. Not about knowing everything, but about expanding my discernment ̶ as a living, porous practice that listens, learns, and includes.
+> The future can´t be predicted: yet redeemed. Whether we say we descend from God, from Mother Earth, or from universal elements—there's a **Promise**, understood by our ancestors, of a condition we are called to embody.
 
-Ultimately, my purpose is to contribute and create value ̶ not only in economic terms, but in a broader sense of virtuous flourishing. I aim to open space for human potential to be activated, expressed, and shared across all dimensions of life
+This is not about appropriation, but about resonance. Not about knowing everything, but about expanding discernment ̶ as a living, porous practice that listens, learns, and includes.
+
+My purpose is to contribute and create value ̶ not only in economic terms, but in a broader sense of virtuous flourishing. I aim to open space for human potential to be activated, expressed, and shared across all dimensions of life
 
 ---
 
@@ -78,7 +80,7 @@ From this surrender, I redeem the promise.
 
 ---
 
-##  Glosario Poético de Sentido
+##  Glpsary
 
 ###  Redemptive of the Promise
 
