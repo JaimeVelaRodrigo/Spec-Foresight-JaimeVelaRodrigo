@@ -61,3 +61,7 @@ To redeem comes from Latin *redimere*: “to rescue,” “to liberate,” “to
 
 Whether it is called God, land, destiny, vision, justice, or beauty—what matters is that it summons us to act, co-create, and dignify life.  
 Redeeming the promise lies at the mystical heart of this Spec.
+
+## Core references
+- Core YAML: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.yaml
+- Core JSON: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.json
