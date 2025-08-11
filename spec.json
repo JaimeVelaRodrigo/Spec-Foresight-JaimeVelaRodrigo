@@ -1,0 +1,41 @@
+{
+  "meta": { "name": "Spec-Foresight", "version": "2025-08-11", "language": "en" },
+  "foresight": {
+    "orientation": "My practice of foresight is grounded in discernment that inhabits the future through aesthetic desire, embodied ethics, and symbolic thought. I read the signs of the times to find the meeting point between my vision and the collective resonance so they can transform one another.",
+    "principles": [
+      {
+        "name": "I AM – Foresight Creed",
+        "text": "I AM a living presence that meets the world not to demand what I lack, but to offer what I am. My foresight is service: I read and honor the present, I contribute in humble dialogue, and I act with the dignity of one who knows the Divine also manifests through me. I walk without nostalgia or victimhood, with the certainty that my consciousness is unique and that every encounter is sacred."
+      },
+      {
+        "name": "Stewardship of Nostalgia",
+        "text": "I acknowledge nostalgia as a reservoir of meaning—beauty lived, love received—but I refuse its gravitational pull. I harvest its symbols, thank the past, and convert that energy into lucid presence and forward motion."
+      }
+    ],
+    "method": {
+      "fieldwork": [
+        "Pattern reading: narratives, symbols, macro signals.",
+        "Dialogic probes: short cycles to test resonance with stakeholders.",
+        "Small-bet sprints: measurable moves in 2–4 weeks."
+      ],
+      "practice_rules": [
+        "Listen first. Name clearly. Propose minimally-sufficient action.",
+        "Design for shared gains; avoid zero-sum framings.",
+        "Measure outcomes early; adapt with dignity."
+      ]
+    }
+  },
+  "micro_playbook": {
+    "pre_meeting_cue": "I am here to offer value. I listen first. I speak clearly. I propose creation.",
+    "openers": [
+      "Here’s a quick read of your context and a 30-day move we can test.",
+      "I’m here to co-design a result, not deliver a monologue."
+    ],
+    "frame": {
+      "present_read": "One crisp insight about their situation.",
+      "leverage_point": "Smallest intervention with outsized impact.",
+      "offer": "What I do in 2 weeks to de-risk.",
+      "ask": "The one thing I need from them."
+    }
+  }
+}
