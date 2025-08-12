@@ -1,6 +1,11 @@
-#  Spec Foresight – Jaime Vela Rodrigo
+# Spec-Foresight – Jaime Vela Rodrigo
 
-**An embodied practice of future-making rooted in aesthetic discernment, spiritual integrity, and collective regeneration**
+Embodied practice of future-making grounded in aesthetic discernment, embodied ethics, and symbolic thought.
+
+- See `spec.yaml` / `spec.json` for machine-readable definitions
+- Core references:
+  - YAML: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.yaml
+  - JSON: https://github.com/JaimeVelaRodrigo/JaimeVelaRodrigo-Spec-Core/blob/main/spec-core.json
 
 ---
 
