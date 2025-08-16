@@ -9,6 +9,27 @@ Embodied practice of future-making grounded in aesthetic discernment, embodied e
 
 ---
 
+# Spec Foresight — Investable Guardrails
+
+**Purpose**  
+Anticipate change with aesthetic–ethical clarity and convert it into smallest viable, investable bets.
+
+**Finance Guardrails**  
+- Equity IRR target 12–18%; DSCR ≥1.20x base; payback ≤6y.  
+- Positive contribution margin path within 12–18 months.  
+- Sensitivity documented (price/rates two-way).  
+- Capital shapes by fit: project finance / JV / revenue-share / convertible.
+
+**Learning Loops**  
+- Signal → Hypothesis → Bet → Metric → Review → Adjust/Stop.  
+- Publish one write-up/month to discipline clarity.
+
+**Outputs**  
+- Board scenario maps with sensitivities.  
+- Early-stage theses for infra/energy & AI-enabled ops.
+
+---
+
 ## 1. Personal Orientation
 
 My approach to foresight is not about prediction or capture—it is about **creative discernment** through aesthetic desire, an embodied ethics, and symbolic thinking that emerges from the depths of who I am.  
