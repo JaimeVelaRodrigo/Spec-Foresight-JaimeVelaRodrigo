@@ -1,12 +1,27 @@
 {
-  "meta": { "name": "Spec Foresight", "version": "1.1-CF", "language": ["en","es"] },
+  "meta": {
+    "name": "Spec Foresight",
+    "version": "v1.2-M2",
+    "last_updated": "2025-08-18",
+    "language": ["en","es"],
+    "active": true
+  },
+  "alignment": {
+    "core_reference": "../../core/spec-core.yaml",
+    "coherence_notes": "Poetic clarity with investable guardrails."
+  },
   "content": {
-    "vision": "Practice foresight that is poetic and practical... investable, verifiable moves with explicit finance guardrails.",
+    "vision": "Practice foresight that is poetic and practical: aesthetic–ethical lenses that anticipate change and convert into investable, verifiable moves.",
     "values": ["Curiosity","Coherence","Responsibility","Beauty","Prudence"],
     "principles": [
       "Every signal → testable hypothesis with metrics and a smallest viable bet.",
       "Strategy must pass the finance rubric: unit economics first, narrative second.",
-      "Publish learning loops: what we believed, what happened, what we changed."
+      "Publish learning loops (what we believed, what happened, what we changed)."
+    ],
+    "practices": [
+      "Horizon scans → 1-page “Signal → Bet → Metric”.",
+      "Monthly scenario review with financial sensitivities.",
+      "One public write-up per month to discipline clarity."
     ]
   },
   "finance_guardrails": {
@@ -26,7 +41,18 @@
     "exit_criteria": { "stop_if": ["No traction after 2 iterations","DSCR < 1.1 in base case","Unmitigable regulatory block"] }
   },
   "applications": [
-    "Board scenarios → decision maps with sensitivities.",
-    "Early-stage theses for infra/energy & AI-enabled ops."
-  ]
+    "Boards: scenarios → decision maps with sensitivities.",
+    "Early-stage theses for infra/energy & AI-enabled ops (smallest viable bets)."
+  ],
+  "machine_summary": {
+    "headlines": [
+      "Foresight = poetic clarity with investable guardrails.",
+      "Signals become smallest viable bets with unit economics."
+    ],
+    "keywords": ["foresight","scenarios","signals","unit economics","sensitivity","small bets","stewardship"]
+  },
+  "ontology": {
+    "schema_org": { "offer": "https://schema.org/Offer" },
+    "foaf": { "person": "http://xmlns.com/foaf/0.1/Person" }
+  }
 }
