@@ -1,7 +1,9 @@
 meta:
   name: "Spec Foresight"
-  version: "1.1-CF"
+  version: "v1.2-M2"
+  last_updated: "2025-08-18"
   language: ["en","es"]
+  active: true
 
 alignment:
   core_reference: "../../core/spec-core.yaml"
@@ -9,13 +11,13 @@ alignment:
 
 content:
   vision: >
-    Practice foresight that is poetic and practical: aesthetic–ethical lenses that anticipate change
-    and convert into investable, verifiable moves with explicit finance guardrails.
+    Practice foresight that is poetic and practical: aesthetic–ethical lenses
+    that anticipate change and convert into investable, verifiable moves.
   values: [Curiosity, Coherence, Responsibility, Beauty, Prudence]
   principles:
     - Every signal → testable hypothesis with metrics and a smallest viable bet.
     - Strategy must pass the finance rubric: unit economics first, narrative second.
-    - Publish learning loops: what we believed, what happened, what we changed.
+    - Publish learning loops (what we believed, what happened, what we changed).
   practices:
     - Horizon scans → 1-page “Signal → Bet → Metric”.
     - Monthly scenario review with financial sensitivities.
@@ -50,3 +52,9 @@ machine_summary:
     - "Foresight = poetic clarity with investable guardrails."
     - "Signals become smallest viable bets with unit economics."
   keywords: ["foresight","scenarios","signals","unit economics","sensitivity","small bets","stewardship"]
+
+ontology:
+  schema_org:
+    offer: "https://schema.org/Offer"
+  foaf:
+    person: "http://xmlns.com/foaf/0.1/Person"
