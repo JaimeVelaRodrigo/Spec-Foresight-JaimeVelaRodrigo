@@ -17,37 +17,58 @@ positioning:
 
 worldview:
   description: >
-    The current global system is driven by control, optimization and
-    extraction, often disconnected from deeper human meaning and
-    long-term sustainability.
+    The current global system is not only driven by control, optimization
+    and extraction, but also by a deeper disconnection from human experience,
+    meaning and aesthetic coherence.
+
+    Progress has been defined primarily in material and quantitative terms,
+    while neglecting the qualitative dimensions of life: beauty, presence,
+    relationship and inner coherence.
+
+    This creates a structural imbalance where systems become increasingly
+    efficient, but human experience becomes fragmented, anxious and
+    disconnected.
 
   tension:
-    - control vs emergence
-    - efficiency vs meaning
-    - short-term gain vs long-term value
+    - control vs trust in emergence
+    - efficiency vs lived meaning
+    - material success vs existential coherence
     - fragmentation vs integration
 
 civilizational_tension:
   description: >
-    Humanity is transitioning from a paradigm based on domination,
-    consumption and control toward a still undefined paradigm where
-    consciousness, integration and responsibility may play a central role.
+    Humanity is not only undergoing a technological transition, but a
+    civilizational and existential one.
+
+    The dominant paradigm is based on control, accumulation and external
+    validation, while a new, still emerging paradigm points toward
+    awareness, integration and inner grounding.
+
+    This transition is not linear and creates tension, confusion and
+    instability at individual and systemic levels.
 
   current_state:
-    - technological acceleration without equivalent ethical development
-    - economic systems misaligned with long-term sustainability
-    - growing disconnection between human experience and systems of power
+    - technological acceleration without equivalent development of consciousness
+    - economic systems detached from long-term value creation
+    - increasing psychological and existential fragmentation
+    - loss of meaning despite material progress
 
 transformation_model:
   description: >
-    Real transformation does not occur through incremental optimization,
-    but through shifts in awareness, perception and structural redesign.
+    Transformation is not primarily a technical or external process,
+    but a shift in perception, awareness and relationship with reality.
+
+    Structural change follows inner change, not the other way around.
+
+    Attempts to solve systemic problems without addressing underlying
+    perception tend to reproduce the same patterns at a higher level
+    of complexity.
 
   dynamics:
-    - breakdown of existing models
-    - emergence of new patterns
-    - integration of previously fragmented domains
-
+    - breakdown of existing mental and institutional models
+    - emergence of new forms of perception and meaning
+    - integration of previously separated domains (technology, ethics, aesthetics)
+    - gradual alignment between inner awareness and external systems
 agi_and_humanity:
   description: >
     AGI represents not only a technological threshold but a mirror
