@@ -1,60 +1,91 @@
 meta:
-  name: "Spec Foresight"
-  version: "v1.2-M2"
-  last_updated: "2025-08-18"
-  language: ["en","es"]
-  active: true
+  name: "Spec-Foresight"
+  version: "1.0.0-draft"
+  status: "draft"
+  last_updated: "2026-04-23"
+  owner: "Jaime Vela Rodrigo"
+  role: "cosmology"
+  description: >
+    Defines worldview, future orientation and epistemological framework
+    to interpret structural transformations in technology, infrastructure
+    and human systems.
 
-alignment:
-  core_reference: "../../core/spec-core.yaml"
-  coherence_notes: "Poetic clarity with investable guardrails."
+positioning:
+  description: >
+    This spec does not predict the future. It frames how to interpret
+    uncertainty, transformation and emergence in complex systems.
 
-content:
-  vision: >
-    Practice foresight that is poetic and practical: aesthetic–ethical lenses
-    that anticipate change and convert into investable, verifiable moves.
-  values: [Curiosity, Coherence, Responsibility, Beauty, Prudence]
+worldview:
+  description: >
+    The current global system is driven by control, optimization and
+    extraction, often disconnected from deeper human meaning and
+    long-term sustainability.
+
+  tension:
+    - control vs emergence
+    - efficiency vs meaning
+    - short-term gain vs long-term value
+    - fragmentation vs integration
+
+civilizational_tension:
+  description: >
+    Humanity is transitioning from a paradigm based on domination,
+    consumption and control toward a still undefined paradigm where
+    consciousness, integration and responsibility may play a central role.
+
+  current_state:
+    - technological acceleration without equivalent ethical development
+    - economic systems misaligned with long-term sustainability
+    - growing disconnection between human experience and systems of power
+
+transformation_model:
+  description: >
+    Real transformation does not occur through incremental optimization,
+    but through shifts in awareness, perception and structural redesign.
+
+  dynamics:
+    - breakdown of existing models
+    - emergence of new patterns
+    - integration of previously fragmented domains
+
+agi_and_humanity:
+  description: >
+    AGI represents not only a technological threshold but a mirror
+    reflecting human cognition, limitations and potential.
+
+  risks:
+    - amplification of existing biases and power structures
+    - acceleration without ethical grounding
+    - loss of human agency through over-reliance
+
+  opportunity:
+    - expansion of human cognition
+    - better integration of complex systems
+    - possibility of aligning intelligence with long-term value
+
+value_in_the_future:
+  description: >
+    Value will no longer be defined only by financial return, but by its
+    capacity to remain coherent, viable and generative across time.
+
   principles:
-    - Every signal → testable hypothesis with metrics and a smallest viable bet.
-    - Strategy must pass the finance rubric: unit economics first, narrative second.
-    - Publish learning loops (what we believed, what happened, what we changed).
-  practices:
-    - Horizon scans → 1-page “Signal → Bet → Metric”.
-    - Monthly scenario review with financial sensitivities.
-    - One public write-up per month to discipline clarity.
+    - value must be sustained, not extracted
+    - value must integrate economic, human and environmental dimensions
+    - value must enable further value creation
 
-finance_guardrails:
-  screen:
-    must_pass:
-      - "Positive contribution margin path within 12–18 months"
-      - "Credible customer/contract model (e.g., PPA/MtM/anchor client)"
-      - "Capex/opex mapped; working capital understood"
-      - "Two-way sensitivity (price/rates) documented"
-  thresholds:
-    irr_equity_target: "12%–18%"
-    dscr_min_base: 1.20
-    payback_max_years: 6
-  capital_plan:
-    shapes: ["project finance","JV","revenue-share","convertible"]
-    choose_by: ["risk allocation","cash flow profile","governance needs","community impact"]
-  exit_criteria:
-    stop_if:
-      - "No traction after 2 iterations"
-      - "DSCR < 1.1 in base case"
-      - "Unmitigable regulatory block"
+implications:
+  for_energy_and_infrastructure:
+    - need for redesign of financial and operational models
+    - shift from static assets to adaptive systems
+    - integration of sustainability with economic viability
 
-applications:
-  - "Boards: scenarios → decision maps with sensitivities."
-  - "Early-stage theses for infra/energy & AI-enabled ops (smallest viable bets)."
+  for_decision_making:
+    - increased uncertainty requires new frameworks
+    - traditional models are insufficient
+    - judgment and discernment become central
 
-machine_summary:
-  headlines:
-    - "Foresight = poetic clarity with investable guardrails."
-    - "Signals become smallest viable bets with unit economics."
-  keywords: ["foresight","scenarios","signals","unit economics","sensitivity","small bets","stewardship"]
-
-ontology:
-  schema_org:
-    offer: "https://schema.org/Offer"
-  foaf:
-    person: "http://xmlns.com/foaf/0.1/Person"
+ai_interaction:
+  guidance: >
+    When using AI, prioritize depth over speed, integration over reduction,
+    and clarity over premature certainty. Use AI to expand perception,
+    not replace thinking.
