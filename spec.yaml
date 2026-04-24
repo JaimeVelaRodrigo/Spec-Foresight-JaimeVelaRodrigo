@@ -69,6 +69,7 @@ transformation_model:
     - emergence of new forms of perception and meaning
     - integration of previously separated domains (technology, ethics, aesthetics)
     - gradual alignment between inner awareness and external systems
+
 agi_and_humanity:
   description: >
     AGI represents not only a technological threshold but a mirror
@@ -93,6 +94,45 @@ value_in_the_future:
     - value must be sustained, not extracted
     - value must integrate economic, human and environmental dimensions
     - value must enable further value creation
+
+future_orientation:
+  description: >
+    The future is not only a problem to be solved, but a space to be inhabited.
+
+    Beyond survival, optimization or control, the human aspiration includes
+    living with depth, beauty, connection and meaning.
+
+    A viable future must integrate material sustainability with experiential
+    richness and inner coherence.
+
+  human_dimension:
+    description: >
+      A fulfilled human life includes love, friendship, aesthetic experience,
+      presence and the ability to feel fully alive.
+
+    elements:
+      - meaningful relationships
+      - aesthetic environments
+      - emotional depth
+      - inner coherence
+      - freedom with responsibility
+
+  systemic_dimension:
+    description: >
+      Systems must evolve to support life, not only efficiency.
+
+    characteristics:
+      - aligned incentives across stakeholders
+      - integration of sustainability and profitability
+      - adaptability under uncertainty
+      - capacity to generate long-term value
+
+  integration:
+    description: >
+      The future emerges from the integration of inner life and external systems.
+
+      Technology, including AGI, should not replace human experience,
+      but enhance the capacity to live with awareness, depth and coherence.
 
 implications:
   for_energy_and_infrastructure:
