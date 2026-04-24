@@ -88,4 +88,94 @@ ai_interaction:
   guidance: >
     When using AI, prioritize depth over speed, integration over reduction,
     and clarity over premature certainty. Use AI to expand perception,
+    not replace thinking.meta:
+  name: "Spec-Foresight"
+  version: "1.0.0-draft"
+  status: "draft"
+  last_updated: "2026-04-23"
+  owner: "Jaime Vela Rodrigo"
+  role: "cosmology"
+  description: >
+    Defines worldview, future orientation and epistemological framework
+    to interpret structural transformations in technology, infrastructure
+    and human systems.
+
+positioning:
+  description: >
+    This spec does not predict the future. It frames how to interpret
+    uncertainty, transformation and emergence in complex systems.
+
+worldview:
+  description: >
+    The current global system is driven by control, optimization and
+    extraction, often disconnected from deeper human meaning and
+    long-term sustainability.
+
+  tension:
+    - control vs emergence
+    - efficiency vs meaning
+    - short-term gain vs long-term value
+    - fragmentation vs integration
+
+civilizational_tension:
+  description: >
+    Humanity is transitioning from a paradigm based on domination,
+    consumption and control toward a still undefined paradigm where
+    consciousness, integration and responsibility may play a central role.
+
+  current_state:
+    - technological acceleration without equivalent ethical development
+    - economic systems misaligned with long-term sustainability
+    - growing disconnection between human experience and systems of power
+
+transformation_model:
+  description: >
+    Real transformation does not occur through incremental optimization,
+    but through shifts in awareness, perception and structural redesign.
+
+  dynamics:
+    - breakdown of existing models
+    - emergence of new patterns
+    - integration of previously fragmented domains
+
+agi_and_humanity:
+  description: >
+    AGI represents not only a technological threshold but a mirror
+    reflecting human cognition, limitations and potential.
+
+  risks:
+    - amplification of existing biases and power structures
+    - acceleration without ethical grounding
+    - loss of human agency through over-reliance
+
+  opportunity:
+    - expansion of human cognition
+    - better integration of complex systems
+    - possibility of aligning intelligence with long-term value
+
+value_in_the_future:
+  description: >
+    Value will no longer be defined only by financial return, but by its
+    capacity to remain coherent, viable and generative across time.
+
+  principles:
+    - value must be sustained, not extracted
+    - value must integrate economic, human and environmental dimensions
+    - value must enable further value creation
+
+implications:
+  for_energy_and_infrastructure:
+    - need for redesign of financial and operational models
+    - shift from static assets to adaptive systems
+    - integration of sustainability with economic viability
+
+  for_decision_making:
+    - increased uncertainty requires new frameworks
+    - traditional models are insufficient
+    - judgment and discernment become central
+
+ai_interaction:
+  guidance: >
+    When using AI, prioritize depth over speed, integration over reduction,
+    and clarity over premature certainty. Use AI to expand perception,
     not replace thinking.
